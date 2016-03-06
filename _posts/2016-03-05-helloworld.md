@@ -16,10 +16,10 @@ Will start writing again soon.
 - Corgis
 
 
-# Today\'s Struggle
-I\'ve been working on building up a system for deep learning and heavy computations. 
-It\'s been a month long process of waiting for parts to get cheaper and convincing myself that I\'ll actually do work with it. 
-I\'ve gotten the computer set up, but mostly have been using it as an utterly expensive soundcloud streaming device.
+## Today's Struggle
+I've been working on building up a system for deep learning and heavy computations. 
+It's been a month long process of waiting for parts to get cheaper and convincing myself that I'll actually do work with it. 
+I've gotten the computer set up, but mostly have been using it as an utterly expensive soundcloud streaming device.
 
 **Specs:**
 - Intel 5820K 6-Core process overclocked to 4GHz
